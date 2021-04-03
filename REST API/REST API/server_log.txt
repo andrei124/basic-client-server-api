@@ -14,3 +14,11 @@
 
 {"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T19:09:14.2323924+03:00","Content":"Test message 2"}
 
+{"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:15:42.8090945+03:00","Content":"Remote message"}
+
+{"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T20:17:01.0728428+03:00","Content":"Test message 2"}
+
+{"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:18:38.384611+03:00","Content":"Remote message"}
+
+{"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:22:09.2904584+03:00","Content":"Remote message"}
+

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST API", "REST API\REST API.csproj", "{7A69D70C-0034-4316-9A23-9609BDAAE60F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST Client", "REST Client\REST Client.csproj", "{8F1B784B-35D4-4C97-AB3A-7CDC25E590E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7A69D70C-0034-4316-9A23-9609BDAAE60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A69D70C-0034-4316-9A23-9609BDAAE60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A69D70C-0034-4316-9A23-9609BDAAE60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1B784B-35D4-4C97-AB3A-7CDC25E590E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1B784B-35D4-4C97-AB3A-7CDC25E590E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1B784B-35D4-4C97-AB3A-7CDC25E590E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1B784B-35D4-4C97-AB3A-7CDC25E590E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

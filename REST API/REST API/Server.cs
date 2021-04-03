@@ -18,6 +18,11 @@ namespace REST_API
             this.running = false;
         }
 
+        public string GetUrl()
+        {
+            return serverURL;
+        }
+
         public void Start()
         {
             Console.WriteLine($"\nServer started at: {serverURL}\n");
