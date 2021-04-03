@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andrei/RiderProjects/REST API/REST API/REST API.csproj",
+      "projectUniqueName": "/home/andrei/basic-rest-api/REST API/REST API/REST API.csproj",
       "projectName": "REST API",
-      "projectPath": "/home/andrei/RiderProjects/REST API/REST API/REST API.csproj",
+      "projectPath": "/home/andrei/basic-rest-api/REST API/REST API/REST API.csproj",
       "packagesPath": "/home/andrei/.nuget/packages/",
-      "outputPath": "/home/andrei/RiderProjects/REST API/REST API/obj/",
+      "outputPath": "/home/andrei/basic-rest-api/REST API/REST API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andrei/.nuget/NuGet/NuGet.Config"

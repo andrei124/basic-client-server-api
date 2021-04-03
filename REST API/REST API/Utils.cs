@@ -8,8 +8,8 @@ namespace REST_API
 {
     public class Utils
     {
-        public static readonly string serverLogFile = "/home/andrei/RiderProjects/REST API/REST API/server_log.txt";
-        public static readonly string serverInfoFile = "/home/andrei/RiderProjects/REST API/REST API/server_info.json";
+        public static readonly string serverLogFile = "/home/andrei/basic-rest-api/REST API/REST API/server_log.txt";
+        public static readonly string serverInfoFile = "/home/andrei/basic-rest-api/REST API/REST API/server_info.json";
 
 
         /// <summary>

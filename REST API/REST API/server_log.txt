@@ -12,3 +12,5 @@
 
 {"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T18:58:47.4579778+03:00","Content":"Test message 1"}
 
+{"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T19:09:14.2323924+03:00","Content":"Test message 2"}
+
