@@ -1,0 +1,14 @@
+{"URI":"http://localhost:8500/sample","Timestamp":"2021-04-03T00:58:54.3402854+03:00","Content":""}
+
+{"URI":"http://localhost:8500/sample","Timestamp":"2021-04-03T00:59:08.1225421+03:00","Content":""}
+
+{"URI":"http://localhost:8500/sample","Timestamp":"2021-04-03T01:11:29.1734193+03:00","Content":"Hai FCSB"}
+
+{"URI":"http://localhost:8500/sample","Timestamp":"2021-04-03T01:11:46.1131266+03:00","Content":"Hai Dinamo"}
+
+{"URI":"http://localhost:8500/sample","Timestamp":"2021-04-03T01:13:18.8450774+03:00","Content":"Hai Dinamo"}
+
+{"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T18:44:50.679728+03:00","Content":"Test message 1"}
+
+{"Uri":"http://localhost:8500/sample","Timestamp":"2021-04-03T18:58:47.4579778+03:00","Content":"Test message 1"}
+
