@@ -22,3 +22,7 @@
 
 {"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:22:09.2904584+03:00","Content":"Remote message"}
 
+{"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:33:16.535519+03:00","Content":"Remote message"}
+
+{"Uri":"http://localhost:8500/example","Timestamp":"2021-04-03T20:34:04.396932+03:00","Content":"May StackOverflow ever be with you"}
+

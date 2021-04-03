@@ -7,7 +7,7 @@ namespace REST_Client
     {
         static async Task Main(string[] args)
         {
-            Client httpClient = new Client("http://localhost:8500/example","Remote message");
+            Client httpClient = new Client("http://localhost:8500/example","May StackOverflow ever be with you");
             
             Task<string> retrieveResponse = httpClient.ExecuteRequest();
             string response = await retrieveResponse;

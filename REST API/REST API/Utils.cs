@@ -11,7 +11,6 @@ namespace REST_API
         public static readonly string serverLogFile = "/home/andrei/basic-rest-api/REST API/REST API/server_log.txt";
         public static readonly string serverInfoFile = "/home/andrei/basic-rest-api/REST API/REST API/server_info.json";
 
-
         /// <summary>
         /// Utility function for parsing a JSON file into a list of Server Information Objects
         /// </summary>
@@ -59,10 +58,6 @@ namespace REST_API
                 content = sr.ReadToEnd();
             }
             byte[] requestBody = Encoding.UTF8.GetBytes(content);
-            
-            // MemoryStream ms = new MemoryStream();
-            // request.InputStream.CopyToAsync(ms);
-            // byte[] requestBody = ms.ToArray();
 
             ServerLogEntry logEntry =
                 new ServerLogEntry(requestUri.ToString(), timestamp, Encoding.UTF8.GetString(requestBody));
@@ -70,6 +65,11 @@ namespace REST_API
             return JsonSerializer.Serialize(logEntry);
         }
 
+        /// <summary>
+        /// Utility method for constructing the Server URL
+        /// </summary>
+        /// <param name="serverInfo">Object containing server information</param>
+        /// <returns>String representing the server URL</returns>
         public static string GetServerUrl(ServerInfoObject serverInfo)
         {
             return $"{serverInfo.Protocol}://{serverInfo.Host}:{serverInfo.Port}/";
